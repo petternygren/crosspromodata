@@ -10,19 +10,6 @@
       }]
   },
   "banners": [{
-    "id": "blaston",
-    "version": 1,
-    "type": "Standard",
-    "oculusStoreLink": 2307085352735834,
-    "webbStoreLink": "https://www.oculus.com/experiences/quest/2307085352735834/?utm_medium=xpromo&utm_source=bait&utm_campaign=blaston",
-    "locales": {
-      "en-US": {
-        "image": "https://xp.resgam.com/blaston.png",
-        "description": "Do you have what it takes to be the last champion standing in Resolution Games' fiercely competitive VR dueling game?",
-        "storeText": "Go to game"
-      }
-    }
-  }, {
     "id": "carly",
     "version": 1,
     "type": "Standard",
