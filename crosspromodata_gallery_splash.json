@@ -3,7 +3,7 @@
     "version": 1
   },
   "splashscreen": [{
-    "promoText": "More games from Resolution",
+    "promotext": "More games from Resolution",
     "thumbnails": {
         "id": "blaston",
         "image": "https://xp.resgam.com/blaston.png"
