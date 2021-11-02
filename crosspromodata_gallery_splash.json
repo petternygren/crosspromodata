@@ -2,13 +2,13 @@
   "settings": {
     "version": 1
   },
-  "splashscreen": [{
+  "splashscreen": {
     "promotext": "More games from Resolution",
     "thumbnails": {
         "id": "blaston",
         "image": "https://xp.resgam.com/blaston.png"
       }
-  }],
+  },
   "banners": [{
     "id": "blaston",
     "version": 1,
