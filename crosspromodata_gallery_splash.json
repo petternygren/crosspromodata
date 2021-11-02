@@ -2,7 +2,7 @@
   "settings": {
     "version": 1
   },
-  "splash-promo": [{
+  "splashscreen": [{
     "promoText": "More games from Resolution",
     "thumbnails": {
         "id": "blaston",
