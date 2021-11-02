@@ -4,10 +4,10 @@
   },
   "splashscreen": {
     "promotext": "More games from Resolution",
-    "thumbnails": {
+    "thumbnails": [{
         "id": "blaston",
         "image": "https://xp.resgam.com/blaston.png"
-      }
+      }]
   },
   "banners": [{
     "id": "blaston",
