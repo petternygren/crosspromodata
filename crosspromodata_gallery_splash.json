@@ -7,6 +7,10 @@
     "thumbnails": [{
         "id": "blaston",
         "image": "https://xp.resgam.com/blaston.png"
+      },
+      {
+        "id": "demeo",
+        "image": "https://xp.resgam.com/demeo.png"
       }]
   },
   "banners": [{
