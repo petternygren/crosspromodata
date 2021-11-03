@@ -26,20 +26,7 @@
         "storeText": "Go to game"
       }
     }
-  }, {
-    "id": "demeo",
-    "version": 1,
-    "type": "Standard",
-    "oculusStoreLink": 3634830803298285,
-    "webbStoreLink": "https://www.oculus.com/experiences/quest/2307085352735834/?utm_medium=xpromo&utm_source=bait&utm_campaign=demeo",
-    "locales": {
-      "en-US": {
-        "image": "https://xp.resgam.com/demeo.png",
-        "description": "RPG fans, unite… in virtual reality. Coming May 6.",
-        "storeText": "Wishlist now"
-      }
-    }
-  }, {
+  },{
     "id": "acron",
     "version": 1,
     "type": "Standard",
