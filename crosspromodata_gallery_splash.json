@@ -11,6 +11,18 @@
       {
         "id": "demeo",
         "image": "https://xp.resgam.com/demeo.png"
+      },
+      {
+        "id": "acron",
+        "image": "https://xp.resgam.com/acron.png"
+      },
+      {
+        "id": "cookout",
+        "image": "https://xp.resgam.com/cookout.png"
+      },
+      {
+        "id": "abvr",
+        "image": "https://xp.resgam.com/abvr.png"
       }]
   },
   "banners": [{
