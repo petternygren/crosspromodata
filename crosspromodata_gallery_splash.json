@@ -2,7 +2,7 @@
   "settings": {
     "version": 1
   },
-  "splashscreen": {
+  "splashscreenGallery": {
     "promotext": "More games from Resolution",
     "thumbnails": [{
         "id": "blaston",
@@ -25,6 +25,17 @@
         "image": "https://xp.resgam.com/abvr.png"
       }]
   },
+  "splashscreenVideo":[
+    {
+        "id":"test1",
+        "version":1,
+        "locales":{
+            "en-US":{
+            "image":"https://raw.githubusercontent.com/petternygren/crosspromodata/master/CATR_GameIntro_Logos.mp4"
+            }
+        }
+    }
+],
   "banners": [{
     "id":"blaston",
     "version":1,
