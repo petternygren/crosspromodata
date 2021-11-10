@@ -26,11 +26,24 @@
       }]
   },
   "banners": [{
+    "id":"blaston",
+    "version":1,
+    "type":"Standard",
+    "oculusStoreLink":2307085352735834,
+    "webStoreLink":"https://www.oculus.com/experiences/quest/2307085352735834/?utm_medium=xpromo&utm_campaign=blaston",
+    "locales":{
+       "en-US":{
+          "image":"https://xp.resgam.com/blaston.png",
+          "description":"Do you have what it takes to be the last champion standing in Resolution Games' fiercely competitive VR dueling game?",
+          "storeText":"Go to game"
+       }
+    }
+  },{
     "id": "carly",
     "version": 1,
     "type": "Standard",
     "oculusStoreLink": 3285668754893704,
-    "webbStoreLink": "https://www.oculus.com/experiences/quest/3285668754893704/?utm_medium=xpromo&utm_source=bait&utm_campaign=carly",
+    "webStoreLink": "https://www.oculus.com/experiences/quest/3285668754893704/?utm_medium=xpromo&utm_campaign=carly",
     "locales": {
       "en-US": {
         "image": "https://xp.resgam.com/carly.png",
@@ -39,11 +52,24 @@
       }
     }
   },{
+    "id":"demeo",
+    "version":1,
+    "type":"Standard",
+    "oculusStoreLink":3634830803298285,
+    "webStoreLink":"https://www.oculus.com/experiences/quest/3634830803298285/?utm_medium=xpromo&utm_campaign=demeo",
+    "locales":{
+       "en-US":{
+          "image":"https://xp.resgam.com/demeo.png",
+          "description":"RPG fans, unite… in virtual reality. Coming May 6.",
+          "storeText":"Wishlist now"
+       }
+    }
+  },{
     "id": "acron",
     "version": 1,
     "type": "Standard",
     "oculusStoreLink": 2345082335516570,
-    "webbStoreLink": "https://www.oculus.com/experiences/quest/2345082335516570/?utm_medium=xpromo&utm_source=bait&utm_campaign=acron",
+    "webStoreLink": "https://www.oculus.com/experiences/quest/2345082335516570/?utm_medium=xpromo&utm_campaign=acron",
     "locales": {
       "en-US": {
         "image": "https://xp.resgam.com/acron.png",
@@ -56,7 +82,7 @@
     "version": 1,
     "type": "Standard",
     "oculusStoreLink": 2004774962957063,
-    "webbStoreLink": "https://www.oculus.com/experiences/quest/2004774962957063/?utm_medium=xpromo&utm_source=bait&utm_campaign=cookout",
+    "webStoreLink": "https://www.oculus.com/experiences/quest/2004774962957063/?utm_medium=xpromo&utm_campaign=cookout",
     "locales": {
       "en-US": {
         "image": "https://xp.resgam.com/cookout.png",
@@ -69,7 +95,7 @@
     "version": 1,
     "type": "Standard",
     "oculusStoreLink": 2718606324833775,
-    "webbStoreLink": "https://www.oculus.com/experiences/quest/2718606324833775/?utm_medium=xpromo&utm_source=bait&utm_campaign=abvr",
+    "webStoreLink": "https://www.oculus.com/experiences/quest/2718606324833775/?utm_medium=xpromo&utm_campaign=abvr",
     "locales": {
       "en-US": {
         "image": "https://xp.resgam.com/abvr.png",
