@@ -26,6 +26,19 @@
       }]
   },
   "banners": [{
+    "id":"blaston",
+    "version":1,
+    "type":"Standard",
+    "oculusStoreLink":2307085352735834,
+    "webbStoreLink":"https://www.oculus.com/experiences/quest/2307085352735834/?utm_medium=xpromo&utm_source=bait&utm_campaign=blaston",
+    "locales":{
+       "en-US":{
+          "image":"https://xp.resgam.com/blaston.png",
+          "description":"Do you have what it takes to be the last champion standing in Resolution Games' fiercely competitive VR dueling game?",
+          "storeText":"Go to game"
+       }
+    }
+  },{
     "id": "carly",
     "version": 1,
     "type": "Standard",
@@ -37,6 +50,19 @@
         "description": "Grab a friend and work to help Carly on her quest to escape the Underworld.",
         "storeText": "Go to game"
       }
+    }
+  },{
+    "id":"demeo",
+    "version":1,
+    "type":"Standard",
+    "oculusStoreLink":3634830803298285,
+    "webbStoreLink":"https://www.oculus.com/experiences/quest/2307085352735834/?utm_medium=xpromo&utm_source=bait&utm_campaign=demeo",
+    "locales":{
+       "en-US":{
+          "image":"https://xp.resgam.com/demeo.png",
+          "description":"RPG fans, unite… in virtual reality. Coming May 6.",
+          "storeText":"Wishlist now"
+       }
     }
   },{
     "id": "acron",
