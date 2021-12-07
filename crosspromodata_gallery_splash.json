@@ -25,6 +25,17 @@
         "image": "https://xp.resgam.com/abvr.png"
       }]
   },
+  "DummyDummy": {
+    "foo": "More games from Resolution",
+    "bar": [{
+        "id": "blaston",
+        "image": "https://xp.resgam.com/blaston.png"
+      },
+      {
+        "id": "demeo",
+        "image": "https://xp.resgam.com/demeo.png"
+      }]
+  },
   "splashscreenVideo":[
     {
         "id":"test1",
