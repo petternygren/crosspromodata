@@ -84,7 +84,17 @@
           "image":"https://xp.resgam.com/demeo.png",
           "description":"RPG fans, unite… in virtual reality. Coming May 6.",
           "storeText":"Wishlist now"
-       }
+       },
+       "sv-US":{
+        "image":"https://xp.resgam.com/demeo.png",
+        "description":"HEJ SVENSKA",
+        "storeText":"Wishlist now"
+     },
+     "de-US":{
+      "image":"https://xp.resgam.com/demeo.png",
+      "description":"HEJ SVENSKA",
+      "storeText":"Wishlist now"
+   }
     }
   },{
     "id": "acron",
